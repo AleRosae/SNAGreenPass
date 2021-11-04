@@ -1,2 +1,4 @@
 # SNAGreenPass
 Social Network analysis of the Green Pass discussion on Twitter
+
+ The debate regarding mandatory health passports for workers in Italy has fueled a fierce discussion both offline and online. This study aims at performing a network analysis of the online discussion based on the Twitter platform. In order to do so, about 90k tweets containing hashtags \#nogreepass" and "\#GreenpassObbligatorio" were extracted to create a graph of users interacting one with each other. The resulting network was analyzed with Gephi to find meaningful clusters of users and to measure their importance based on Betweeness Centrality Score and Authority score. Results suggest that most of the debate involved normal users, meaning that the discussion has not been carried out by public figures. Moreover, it suggest that the cluster division is somehow indicative of the attitude of their users towards the topic. 
